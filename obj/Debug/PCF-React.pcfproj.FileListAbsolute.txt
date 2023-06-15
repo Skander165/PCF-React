@@ -1,0 +1,2 @@
+C:\Users\KM989HW\_Never Backup\PCF-React\obj\Debug\PCF-React.pcfproj.AssemblyReference.cache
+C:\Users\KM989HW\_Never Backup\PCF-React\obj\Debug\PCF-React.pcfproj.CoreCompileInputs.cache
